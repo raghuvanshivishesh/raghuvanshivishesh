@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vishesh Raghuvanshi!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 📚 Student at RGPV
+- 📚 Student at SDBC, Indore
 - 📫 You can reach me at my email address 'no1vishesh1@gmail.com'.
 
 
