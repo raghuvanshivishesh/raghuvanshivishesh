@@ -30,9 +30,6 @@ const vishesh = {
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=raghuvanshivishesh&style=flat-square"/>
- <img src="https://badges.pufler.dev/years/raghuvanshivishesh"/>
- <img src="https://badges.pufler.dev/repos/raghuvanshivishesh"/>
- <img src="https://badges.pufler.dev/commits/monthly/raghuvanshivishesh"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Draghuvanshivishesh&longCache=true"/>
 </p>
 
